@@ -1,0 +1,70 @@
+
+
+#centrepiece {
+	text-align:center;
+}
+
+#logo {
+	height: 231px;
+	margin-top:90px;
+}
+
+img {
+	height: 95px;
+	width: 269px;
+	padding-top: 112px;
+}
+
+input[type="text"] {
+	display: block;
+	position: relative;
+	width: 500px;
+	margin: auto auto 8px auto;
+	
+}
+
+#Google{
+	position: relative;
+	left: 0px;
+}
+
+
+#Lucky{
+	position: relative;
+	left: 0px;
+}
+
+a {
+	font-size: 13px;
+	display: inline-block;
+	font-family: arial, sans-serif;
+	padding: 10px 13px 10px 13px;
+
+}
+
+#footer {
+	position:absolute;
+	left: 0;
+	height: 40px;
+	bottom: 0;
+	right: 0;
+	background-color: #f2f2f2;
+	border-top: 1px solid #e4e4e4;
+}
+
+.footer1 {
+	float:left;
+}
+
+.footer2 {
+	float:right;
+}
+
+.bell {
+	background-image: url('//ssl.gstatic.com/gb/images/v1_b444d4f7.png');
+	background-position: -69px -69px;
+	height:100%
+	width:100%;
+
+
+}
